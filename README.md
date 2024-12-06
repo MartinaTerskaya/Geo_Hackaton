@@ -20,7 +20,7 @@ quirements.txt # Python dependencies └── README.md # Project documentation
 
 ---
 
-## **Project Highlights**
+## **Project Highlights
 - **Data Integration:** Combines seismic data with well logs using depth-matching algorithms.
 - **Feature Engineering:** Extracts seismic attributes (amplitude, frequency, phase) and engineered features for machine learning.
 - **Machine Learning Models:** Models for predicting porosity, permeability, and temperature gradients.
