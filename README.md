@@ -4,9 +4,19 @@ This repository contains the workflow for integrating seismic and well log data,
 
 ---
 
-## **Project Structure**
 
-📦 repository-name/ ├── 📂 datasets/ # Contains the input datasets and preprocessed files │ ├── seismic_data/ # Original seismic files (.sgy, .csv) │ ├── well_logs/ # Well log data for known wells │ ├── combined_dataset.csv # Final combined dataset with seismic and well log features │ ├── 📂 notebooks/ # Jupyter notebooks for analysis and modeling │ ├── 01_data_preprocessing.ipynb # Data cleaning, feature engineering │ ├── 02_model_training.ipynb # Machine learning model training and optimization │ ├── 03_predictions.ipynb # Prediction and visualization for unknown wells │ ├── 📂 scripts/ # Standalone Python scripts │ ├── preprocess_data.py # Data preprocessing │ ├── train_model.py # Model training pipeline │ ├── make_predictions.py # Generating predictions │ ├── 📂 outputs/ # Results and outputs │ ├── predictions/ # Prediction CSV files for each well │ ├── figures/ # Visualizations and plots │ ├── 📂 team_approach/ # Alternative solutions by team members │ ├── approach_by_member_A.ipynb │ ├── approach_by_member_B.py │ ├── main.py # Main entry point to run the full pipeline ├── requirements.txt # Python dependencies └── README.md # Project documentation (this file)
+### **Explanation**
+- **`datasets/`**: Organizes the raw, processed, and combined data.
+- **`src/`**: Contains the main source code files for processing and modeling.
+- **`notebooks/`**: Includes Jupyter notebooks for analysis and testing.
+- **`outputs/`**: Stores the results, such as predictions and visualizations.
+- **`team_approaches/`**: Includes team-specific alternative approaches or experiments.
+- **`main.py`**: Entry point for executing the project pipeline.
+- **`requirements.txt`**: Lists the Python libraries required for the project.
+- **`README.md`**: Provides an overview of the project.
+- **`LICENSE`**: Contains the license details.
+- **`.gitignore`**: Specifies files and folders for Git to ignore.
+quirements.txt # Python dependencies └── README.md # Project documentation (this file)
 
 ---
 
@@ -27,5 +37,4 @@ git clone https://github.com/yourusername/repository-name.git
 cd repository-name
 
 ## **License**
-This project is licensed under the MIT License.
-
+This project is licensed under the [MIT License](LICENSE).
