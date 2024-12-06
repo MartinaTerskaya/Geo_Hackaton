@@ -1,4 +1,4 @@
-# **Geohackathon: Seismic-Well Log Integration and Prediction**
+# **Geohackathon: Reservoir Property prediction**
 
 This repository contains the workflow for integrating seismic and well log data, applying machine learning models, and visualizing subsurface properties as part of the **Geohackathon** project.
 
