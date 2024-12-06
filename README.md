@@ -40,6 +40,5 @@ cd repository-name
 ---
 
 ## **License**
-```bash
 This project is licensed under the [MIT License](LICENSE).
 
