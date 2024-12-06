@@ -31,7 +31,7 @@ quirements.txt # Python dependencies └── README.md # Project documentation
 
 ## **Getting Started**
 
-### **1. Clone the Repository**
+### Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/repository-name.git
 cd repository-name
@@ -39,7 +39,7 @@ cd repository-name
 
 ---
 
-
 ## **License**
+```bash
 This project is licensed under the [MIT License](LICENSE).
 
