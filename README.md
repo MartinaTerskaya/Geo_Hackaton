@@ -31,7 +31,7 @@ quirements.txt # Python dependencies └── README.md # Project documentation
 
 ## **Getting Started**
 
-### Clone the Repository**
+### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/repository-name.git
 cd repository-name
